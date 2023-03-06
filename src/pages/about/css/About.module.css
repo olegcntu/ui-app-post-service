@@ -1,0 +1,21 @@
+.advantages_inner {
+    color: black;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.container_advantages {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.advantages {
+    padding: 55px 0px 40px 180px;
+    background-image: url("../img/room_about.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 285px;
+    background-size: cover;
+}

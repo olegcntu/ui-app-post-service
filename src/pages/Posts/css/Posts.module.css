@@ -1,0 +1,52 @@
+
+.default_btn {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    padding: 8px 30px 8px 24px;
+    border: 1px solid #ffc222;
+    border-right-width: 20px;
+    position: relative;
+    z-index: 2;
+    outline: none;
+}
+
+
+.about {
+    background-image: url("../img/company.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+    background-repeat: no-repeat;
+    padding: 25px 0px 45px;
+}
+
+.about_inner {
+    margin-left: 5%;
+    max-width: 545px;
+}
+
+.about_title {
+    font-family: Roboto, sans-serif;
+    padding: 10px 0px 25px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.about_text {
+    margin-bottom: 30px;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    color: #d3d2d2;
+}
+
+.about_btn.default-btn:after {
+
+    color: #000;
+}

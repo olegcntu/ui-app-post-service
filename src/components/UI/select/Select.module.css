@@ -1,0 +1,15 @@
+.default_btn {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    padding: 8px 30px 8px 24px;
+    border: 1px solid #ffc222;
+    border-right-width: 20px;
+    position: relative;
+    z-index: 2;
+    outline: none;
+}
